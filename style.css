@@ -102,8 +102,8 @@ section {
 }
 
 .col {
-    border: 2px solid white;
     text-align: center;
+    padding-bottom: 5%;
 }
 
 .col > img {
@@ -113,4 +113,5 @@ section {
 
 .addGreyscale {
     filter: grayscale(100%);
+    font-family: 'Cedarville Cursive', cursive;
 }
